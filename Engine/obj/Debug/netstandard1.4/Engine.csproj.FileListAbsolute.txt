@@ -1,0 +1,7 @@
+C:\C#\SOSCSRPG\Engine\bin\Debug\netstandard1.4\Engine.deps.json
+C:\C#\SOSCSRPG\Engine\bin\Debug\netstandard1.4\Engine.dll
+C:\C#\SOSCSRPG\Engine\bin\Debug\netstandard1.4\Engine.pdb
+C:\C#\SOSCSRPG\Engine\obj\Debug\netstandard1.4\Engine.csprojResolveAssemblyReference.cache
+C:\C#\SOSCSRPG\Engine\obj\Debug\netstandard1.4\Engine.AssemblyInfo.cs
+C:\C#\SOSCSRPG\Engine\obj\Debug\netstandard1.4\Engine.dll
+C:\C#\SOSCSRPG\Engine\obj\Debug\netstandard1.4\Engine.pdb
